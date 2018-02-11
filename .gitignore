@@ -105,3 +105,8 @@ ENV/
 .pptx
 
 .idea
+
+
+# thrid party repos
+
+third_party_repos/
