@@ -2,6 +2,7 @@ name: data-science
 channels:
 - damianavila82
 - conda-forge
+- ioos
 - defaults
 dependencies:
 - altair=1.2.1=py_0
