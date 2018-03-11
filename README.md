@@ -1,11 +1,11 @@
-# Materials for a Workshop on Data Science @ [CODE University Berlin](https://code.berlin/de/)
+# Materials for a Workshop on Data Science @ [CODE University Berlin](https://code.berlin/de/), March 12 and 19<sup>th</sup>, 2018
 
-March 12 and 19<sup>th</sup> 2018
+
 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master)
 
-This repository contains materials for a workshop on Exploratory Data Analysis and Predictive Modeling hosted at CODE University, Berlin, Germany.
+This repository contains materials for a workshop on __Exploratory Data Analysis and Predictive Modeling__ hosted at CODE University, Berlin, Germany.
 
 In order to re-run the workshop materials we encourage you to use the [conda](https://conda.io/docs/) package manager. Once installed, create an environment and install all required dependencies on your machine by typing 
 
