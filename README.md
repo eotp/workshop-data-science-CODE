@@ -30,7 +30,7 @@ All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks a
 
 The structure of this repository is outlined below:
 
-    4learners
+    data-science
     │.git                  # git internals
     │.gitignore            # specify files/folders to be ignored by git
     └───datasets
