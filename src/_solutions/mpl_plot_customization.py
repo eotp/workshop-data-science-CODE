@@ -9,4 +9,6 @@ ax.set_xticks([-np.pi, 0, np.pi])
 ax.set_yticks([-1, 0, 1])
 ax.set_xticklabels(['$-\pi$', '$0$', '$+\pi$'], size=12)
 ax.grid()
-fig.savefig("../figures/my_awesome_mpl_figure.png", dpi=300)
+
+filepath = "../figures/my_awesome_mpl_figure.png"
+fig.savefig(filepath, dpi=300)
