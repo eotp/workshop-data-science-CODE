@@ -14,8 +14,11 @@ __pycache__/
 .idea
 
 
-# thrid party repos
+# third party repos
 third_party_repos/
 
 # experimental stuff
 experimental/
+
+# solutions
+999 Solutions.ipynb
