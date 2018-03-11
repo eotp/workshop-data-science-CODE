@@ -17,7 +17,7 @@ into your console. You activate your new environment by typing
 
 `activate data-science` (on WINDOWS). 
 
-Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). Alternatively, you may launch [binder](https://binderhub.readthedocs.io/en/latest/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master).
+Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master).
 
 
 ***
@@ -33,7 +33,7 @@ The structure of this repository is outlined below:
     4learners
     │.git                  # git internals
     │.gitignore            # specify files/folders to be ignored by git
-    └───data
+    └───datasets
     │   │...               # find all the raw data files
     └───figures
     │   │...               # saved figures go here
@@ -43,6 +43,7 @@ The structure of this repository is outlined below:
     │   │...               # find all Jupyter notebooks here
     │
     │README.md
+    │LICENSE   
     │environment.yml       # conda environment specifications for reproducibility
     └───src
         │...               # here go the code snippets and scripts
