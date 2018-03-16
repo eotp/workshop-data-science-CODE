@@ -24,7 +24,7 @@ experimental/
 999 Solutions.ipynb
 
 # diagrams
-.graphml
+*.graphml
 
 # GIMP files
-.xcf
+*.xcf
