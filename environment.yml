@@ -16,4 +16,5 @@ dependencies:
   - geopy
   - holoviews
   - scikit-learn
+  - scikit-optimize
   - notebook
